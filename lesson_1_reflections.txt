@@ -34,3 +34,4 @@ Because you can always go back to a previous version that doesn't have the bug
 Now that you have your workspace set up, what do you want to try using Git for?
 
 For version control of web page development
+
