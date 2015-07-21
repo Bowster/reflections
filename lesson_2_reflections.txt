@@ -5,3 +5,19 @@ Git repository creates a .git file
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It is a temporary area for holding files before being committed
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Creating a different version - eg. easy mode oor trying out an experimental solution
+
+How do the diagrams help you visualize the branch structure?
+
+By showing the relationship through a tree structure
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Combines the code together, shows two branches together
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic saves time but at the expense of possible incorrect merges
